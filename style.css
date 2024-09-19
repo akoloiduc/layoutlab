@@ -1,0 +1,33 @@
+.heading{
+    background-color: rgb(93, 93, 218);
+    color:red;
+    padding-bottom: 5em;
+}
+.container{
+    display: flex;
+}
+.left{
+    width: 20%;
+    color: yellow;
+    background-color: tomato;
+    padding-bottom: 3em;
+}
+.main{
+    width: 60%;
+    background-color: aqua;
+}
+.right{
+    width: 20%;
+    background-color: black;
+    color: chartreuse;
+}
+.footer{
+    background-color: aquamarine;
+    padding-bottom:5em ;
+}
+ul{
+    padding-left: 0;
+}
+li{
+    list-style-type: none;
+}
